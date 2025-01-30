@@ -1,9 +1,9 @@
-<h1 align="center"><strong>Doc de la réunion du 30/01/2025</strong></h1>
+Doc de la réunion du 30/01/2025
 
 
-<h3 align="center"strong>Cette doc est en bataille mais vous pourrez y trouver les idées générales et des précisions qui découlent de la réunion</strong></h3>
+Cette doc est en bataille mais vous pourrez y trouver les idées générales et des précisions qui découlent de la réunion.
 
-<p>
+
 Plan aspirateur robot 
 
  
@@ -85,4 +85,3 @@ Se répartir les taches :
  
 
 https://www.gotronic.fr/ : pour carte électronique sur mesure. 
-</p>

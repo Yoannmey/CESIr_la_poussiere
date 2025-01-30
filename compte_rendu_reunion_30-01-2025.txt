@@ -1,6 +1,6 @@
-<h1 align="center"><strong>Compte rendu réunion 30/01/2025</strong></h1>
+Compte rendu réunion 30/01/2025
 
-<p>
+
 Suite à la réunion avec Marc, nous avons donc décidés de créer un des 1er aspirateur robot open source.
 
 Nous nous sommes donc fixés pour date limite de livraison du 1er prototype le 01/03/2025.
@@ -20,9 +20,8 @@ Il devra avoir les caractéristiques suivantes:
 		
 De plus amples détails sont communiqués dans la doc liée à cette réunion.
 
-<strong>Pour rappel tout les composants doivent avoir plusieurs sources, dans un souci de reproduction à la maison.</strong>
+Pour rappel tout les composants doivent avoir plusieurs sources, dans un souci de reproduction à la maison.
 
 Une liste de chose à faire est disponible (ou le sera bientôt sur notion)
 
-Une prochaine réunion est prévue le <strong>mercredi 05 février à 17 heures.</strong>
-</p>
+Une prochaine réunion est prévue le mercredi 05 février à 17 heures.
