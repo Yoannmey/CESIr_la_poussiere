@@ -1,5 +1,4 @@
-Compte rendu réunion 30/01/2025
-
+# Compte rendu réunion 30/01/2025
 
 Suite à la réunion avec Marc, nous avons donc décidés de créer un des 1er aspirateur robot open source.
 
