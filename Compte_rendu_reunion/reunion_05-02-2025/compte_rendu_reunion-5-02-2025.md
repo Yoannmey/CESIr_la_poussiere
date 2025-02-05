@@ -39,7 +39,7 @@ Nous considerons de prendre un aspirateur sur leboncoin, robot ou classique, pou
 
 Pour la partie modélisation les jantes sont la prochaine étape, ainsi que de peut être améliorer les pneus, au besoin.
 
-Je me répéte mais il faut rester impliquer, la constance est la clé de la réussite. 
+Je me répéte mais il faut rester impliqué, la constance est la clé de la réussite. 
 
 La prochaine réunion est normalement prévue pour le mercredi 12 février, à voir en fonction des disponibilités de chacun. 
 
