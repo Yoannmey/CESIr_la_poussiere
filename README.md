@@ -69,5 +69,5 @@ Un compte rendu sera donc ajouté sur ce Git à la suite de chaque réunion.
 Merci ! 
 
 Lucas Raoul
-
+Lilian Fischer
 Yoann Meynsan
