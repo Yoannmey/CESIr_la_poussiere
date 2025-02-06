@@ -67,3 +67,4 @@ Chaque semaine, nous faisons une réunion pour avoir un suivi constant du projet
 Un compte rendu sera donc ajouté sur ce Git à la suite de chaque réunion.
 
 Merci ! 
+Lucas Raoul
