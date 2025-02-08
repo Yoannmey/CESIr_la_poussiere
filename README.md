@@ -1,6 +1,6 @@
 # CESIr_la_poussiere
 
-CESIr_la_poussiere est un projet ambitieux, de création d'un aspirateur robot open-source.
+CESIr_la_poussiere est un projet ambitieux de création d'un aspirateur robot open-source.
 
 Nous sommes une jeune équipe composée de 6 personnes, tous en 1ère année du bachelor Concepteur Développeur d'Applications à CESI Brest.
 
